@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosrobinson
 - 👀 I’m interested in WEb Development
-- 🌱 I’m currently learning Python
+- 🌱 I love Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me robinson.carlos38@gmail.com
 
